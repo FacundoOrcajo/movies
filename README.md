@@ -1,5 +1,5 @@
 # Movies
 ## Lista de integrantes
--Facundo Orcajo
 -Ezequiel Gonzalez, 20 años, San Miguel.
--Flora Vargas
+-Facundo Orcajo-22-San Miguel
+-Flora Vargas, 30 años, San Miguel. 
