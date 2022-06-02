@@ -2,4 +2,4 @@
 ## Lista de integrantes
 -Facundo Orcajo-22-San Miguel
 -Ezequiel Gonzalez
--Flora Vargas 
+-Flora Vargas, 30 años, San Miguel.
